@@ -65,7 +65,7 @@ gem 'bootstrap-sass', '~> 3.4.1'
 gem 'jquery-rails'
 gem "refile", require: "refile/rails", github: 'manfe/refile'
 gem 'refile-mini_magick'
-gem 'kaminari','~> 1.1.1'
+gem 'kaminari','~> 1.2.1'
 gem 'rubocop', require: false
 gem 'ransack'
 gem 'rails-i18n'
